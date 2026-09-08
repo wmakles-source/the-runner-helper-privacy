@@ -1,6 +1,6 @@
 Politique de Confidentialité — The Runner Helper
 
-Dernière mise à jour : 8 septembre 2026
+=> Dernière mise à jour : 8 septembre 2026
 
 La présente politique de confidentialité décrit la manière dont l'application mobile The Runner Helper (développée par Makgarett) traite les données lors de son utilisation.
 
@@ -32,11 +32,16 @@ Conformément au Règlement Général sur la Protection des Données (RGPD) et a
 5. Protection des Enfants
 L'application The Runner Helper ne s'adresse pas spécifiquement aux enfants de moins de 13 ans et ne collecte pas sciemment d'informations personnelles auprès d'eux.
 
--English Version:
+6. Contact
+Pour toute question concernant cette politique de confidentialité ou le fonctionnement de l'application, vous pouvez nous contacter par e-mail :
+E-mail : makles.willy@gmail.com
+
+
+=> English Version:
 
 Privacy Policy — The Runner Helper
 
-Last updated: September 8, 2026
+=> Last updated: September 8, 2026
 
 This Privacy Policy describes how The Runner Helper mobile application (developed by Makgarett) handles data during its use.
 
@@ -71,7 +76,3 @@ In accordance with the General Data Protection Regulation (GDPR) and applicable 
 6. Contact
 If you have any questions regarding this Privacy Policy or the application, you can contact us at:  
 Email: makles.willy@gmail.com
-
-7. Contact
-Pour toute question concernant cette politique de confidentialité ou le fonctionnement de l'application, vous pouvez nous contacter par e-mail :
-E-mail : makles.willy@gmail.com
